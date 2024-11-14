@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+    background: rgb(116, 137, 118);
+    overflow: auto;
+   
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    margin: 42px;
+}
+.desc{
+    text-align: center;
+    text-decoration: green;
+    
+}.district{
+    color: rgb(191, 199, 154);
+}
+

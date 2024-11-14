@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.mymargin{
+    margin:25px;
+    
+}
+.head{
+    padding: 0 30%;
+    color: rgb(68, 113, 98);
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-display:unset;
+}
+.container{
+    float: right;
+}
+.note{
+    margin: 30px;
+    font-size: 22px;
+    font-weight:400;
+   text-align: justify;
+    font-family: serif;
+    
+}
